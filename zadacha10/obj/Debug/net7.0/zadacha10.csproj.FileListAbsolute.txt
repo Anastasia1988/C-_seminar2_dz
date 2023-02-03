@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\bin\Debug\net7.0\zadacha10.exe
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\bin\Debug\net7.0\zadacha10.deps.json
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\bin\Debug\net7.0\zadacha10.runtimeconfig.json
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\bin\Debug\net7.0\zadacha10.dll
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\bin\Debug\net7.0\zadacha10.pdb
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\zadacha10.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\zadacha10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\zadacha10.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\zadacha10.AssemblyInfo.cs
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\zadacha10.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\zadacha10.dll
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\refint\zadacha10.dll
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\zadacha10.pdb
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\zadacha10.genruntimeconfig.cache
+C:\Users\HOME\Desktop\C# dom_zadanie_sem2\zadacha10\obj\Debug\net7.0\ref\zadacha10.dll
